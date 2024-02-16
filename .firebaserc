@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-b9598": {
+      "hosting": {
+        "app": [
+          "ionic-b9598"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-b9598"
+  }
+}
